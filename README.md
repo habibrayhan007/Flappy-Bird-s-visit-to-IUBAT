@@ -22,5 +22,5 @@ How-to (as tested on Windows 10)
 ScreenShot
 ----------
 
-![Flappy Bird](ss.png)
+![Flappy-Bird-s-visit-to-IUBAT](ss.png)
 
